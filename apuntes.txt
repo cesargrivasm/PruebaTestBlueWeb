@@ -1,0 +1,28 @@
+Working directory ----------->staging area --------->local repo          ---------> remoto
+Area de trabajo			area temporal 		repositorios		remote repo
+|					|			|			|
+|					|			|			|
+|	git add				|			|			|
+|	-------------->			|			|			|
+|					|			|			|
+|					|   git commit		|			|
+|					|     ------->		|			|
+|					|			|   git push		|
+|					|			|    -------->		|
+|					|			|			|
+|					|			|			|
+|					|			|   git fetch		|
+|					|			|    <-------		|
+|					|			|			|
+|					|			|			|
+|			git checkoout	|			|			|	
+|<--------------------------------------------------------------|			|								|			|			|
+|	git merge			|			|			|
+|<--------------------------------------------------------------|			|			
+
+
+
+git version: version del git 
+Git init: inicializa el folder del proyecto 
+Git status -s:que archivos no tienen seguimiento/archivos no modificados.
+Git add<nombre de archivo> agregar a la zona temporal, al area de staging los archivos
