@@ -26,3 +26,4 @@ git version: version del git
 Git init: inicializa el folder del proyecto 
 Git status -s:que archivos no tienen seguimiento/archivos no modificados.
 Git add<nombre de archivo> agregar a la zona temporal, al area de staging los archivos
+Git commit: enviar los cambios de la parte temporal/staging a nuestro repositorio.
