@@ -27,3 +27,24 @@ Git init: inicializa el folder del proyecto
 Git status -s:que archivos no tienen seguimiento/archivos no modificados.
 Git add<nombre de archivo> agregar a la zona temporal, al area de staging los archivos
 Git commit: enviar los cambios de la parte temporal/staging a nuestro repositorio.
+Git log --oneline: muestra en una linea los commits realizados
+Git reset --hard: viajamos al commit en especifico y eliminamos los cambios futuros.
+
+
+GitHub
+Crear el repositorio
+Git clone en la carpeta de trabajo 
+Git push -u origin master 
+
+Create a readme.md
+Create agregando un commit
+Git pull
+Git fetch: este comando hace la comparación de nuestros archivos locales con los del servidor, si existiera alguna diferencia nos pediría hacer un git pull para realizar un match de nuestros archivos locales
+Tags: git tag version1.0 -m "version 1.0"
+
+
+
+App con su consola
+Agregamos app y estilos
+Agregamos un h1
+
