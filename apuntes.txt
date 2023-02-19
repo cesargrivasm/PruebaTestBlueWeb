@@ -46,6 +46,8 @@ Git branch <nombre>crear un branch
 Git checkout <nombre> cambio de branch
 Git branch en que rama estamos o cuantas ramas tenemos
 Git merge: juntar varias ramas
+Git branch -d <nombre de la rama>  borra la rama
+
 
 
 
