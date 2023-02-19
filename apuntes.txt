@@ -41,6 +41,12 @@ Create agregando un commit
 Git pull
 Git fetch: este comando hace la comparación de nuestros archivos locales con los del servidor, si existiera alguna diferencia nos pediría hacer un git pull para realizar un match de nuestros archivos locales
 Tags: git tag version1.0 -m "version 1.0"
+Git push --tags: para agregar manual los tags
+Git branch <nombre>crear un branch
+Git checkout <nombre> cambio de branch
+Git branch en que rama estamos o cuantas ramas tenemos
+
+
 
 
 
